@@ -4,3 +4,4 @@ from django.apps import AppConfig
 class PollsConfig(AppConfig):
     name = 'polls'
     verbose_name = '投票应用'
+    """卢酉杰"""
